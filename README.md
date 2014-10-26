@@ -12,7 +12,7 @@
 
 ###4. Change the Columns names(79) to character variables based on the features.txt file in the main folder of the DATA.
 
-###5. Calculate the average on each column for each subject and each activity. This way the resultant data frame will have 6(activities)*30(subjects)=180 rows. Save this resultant data frame in a FinalDataset.txt file.
+###5. Calculate the average on each column for each subject and each activity. This way the resultant data frame will have 6(activities) * 30(subjects)=180 rows. Save this resultant data frame in a FinalDataset.txt file.
 
 
 
